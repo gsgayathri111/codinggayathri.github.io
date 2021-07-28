@@ -1,0 +1,58 @@
+
+
+.logo{
+    margin: 0px;
+    margin-left: 300px;
+    padding: 5px;
+    padding-top:200px;
+    color: #3b5998 ;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+.para{
+    margin: 0px;
+    margin-left: 300px;
+    font-size: 24px;
+    line-height: 28px;
+    width: auto;
+    
+    font-weight: lighter;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    padding: 0.09px;
+    color: #1c1e21;
+    display: inline-block;
+    text-rendering: optimizelegibility;
+    display: inline-block;
+
+    
+
+}
+
+.header1{
+    
+    color:darkgrey;
+    float:right;
+    
+    
+}
+.login{
+    float: right;
+    padding: 20px;
+    margin-right: 185px;
+    
+}
+body{
+    width: 100%;
+    cursor: pointer;
+    
+    
+}
+input{
+    padding: 10px;
+      width: 90%;
+      font-size: 20px;
+    border-radius: 20px;
+    border-style: solid;
+}
